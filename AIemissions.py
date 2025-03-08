@@ -95,6 +95,6 @@ st.write("💡 *Think before you prompt Unnecessarily! AI usage has a real-world
 
 # Footer
 st.markdown("---")
-st.markdown("**Designed & Developed with ♥ by: Vivek Singh | [LinkedIn] (https://www.linkedin.com/in/vivek-singh-858941201/)**"
+st.markdown("**Designed & Developed with ♥ by: Vivek Singh | [LinkedIn] (https://www.linkedin.com/in/vivek-singh-858941201/)**")
 st.markdown("**Team: ♥ (Vivek Singh, Aditya Rudola and Madhav Arora)**")
 st.markdown("© 2025 AI Power Meter. All rights reserved.")
